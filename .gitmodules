@@ -1,0 +1,3 @@
+[submodule "bridge-contract"]
+	path = bridge-contract
+	url = https://github.com/foundry-rs/forge-std
